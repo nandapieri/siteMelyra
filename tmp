@@ -1,0 +1,20 @@
+<?php
+
+    echo "hello";
+    /*
+    //Variáveis
+    $nome = $_POST['nome'];
+    $email = $_POST['email'];
+    $mensagem = $_POST['msg'];
+
+    echo $nome;
+
+    //enviar
+
+      // email para quem será enviado o formulário
+      $destino = "nandapieri@gmail.com";
+      $assunto = "Contato pelo Site";
+
+      $enviaremail = mail($destino, $assunto, $mensagem+" "+$nome);
+      */
+  ?>
